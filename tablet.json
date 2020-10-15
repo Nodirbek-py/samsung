@@ -1,0 +1,97 @@
+{
+    "status": "1",
+    "categories": [
+        {
+            "title": "Galaxy Tab S",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Galaxy Tab S7",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-galaxy-tab-s7-t875-sm-t875nzkacac-frontmysticblack-thumb-288322768?$PF_PRD_PNG$",
+                    "color": "черный,бронза,серебро",
+                    "capacity": "‎128 ГБ‎"
+                },
+                {
+                    "id": 1,
+                    "name": "Galaxy Tab S7+",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-galaxy-tab-s7-plus-t975-sm-t975nzkacac-frontmysticblack-thumb-288324127?$PF_PRD_PNG$",
+                    "color": "черный,бронза,серебро",
+                    "capacity": "‎128 ГБ‎"
+                },
+                {
+                    "id": 2,
+                    "name": "Galaxy Tab S6 Lite ",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-galaxy-tab-s6-lite-p615-sm-p615nzaacac-frontgray-thumb-260742314?$PF_PRD_PNG$",
+                    "color": "серый,голубой,розовый",
+                    "capacity": ""
+                },
+                {
+                    "id": 3,
+                    "name": "Galaxy Tab S6",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-galaxy-tabs6-t865-sm-t865nzaaskz-frontgray-thumb-176480193?$PF_PRD_PNG$",
+                    "color": "серый,золотой",
+                    "capacity": "‎128 ГБ‎"
+                },
+                {
+                    "id": 4,
+                    "name": "Galaxy Tab S5e LTE",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-galaxy-tab-s5e-t725-sm-t725nzdaskz-frontgold-thumb-159251869?$PF_PRD_PNG$",
+                    "color": "золотой,черный",
+                    "capacity": "‎64 ГБ‎"
+                },
+                {
+                    "id": 5,
+                    "name": "Galaxy Tab S4",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-galaxy-tabs4-t835-sm-t835nzkaskz-frontblack-thumb-110578561?$PF_PRD_PNG$",
+                    "color": "чёрный",
+                    "capacity": "‎64 ГБ‎"
+                }
+            ]
+        },
+        {
+            "title": "Galaxy Tab A",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Galaxy Tab A10.1 LTE",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-galaxy-tab-a-2019-101-sm-t515nzddskz-frontgold-thumb-159251935?$PF_PRD_PNG$",
+                    "color": "золотой,черный",
+                    "capacity": "‎32 ГБ‎"
+                },
+                {
+                    "id": 1,
+                    "name": "Galaxy Tab A 8.0 2019 LTE",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-galaxy-taba-t295-sm-t295nzkaskz-frontblack-thumb-183175435?$PF_PRD_PNG$",
+                    "color": "черный,серебристый",
+                    "capacity": "‎32 ГБ‎"
+                },
+                {
+                    "id": 2,
+                    "name": "Galaxy Tab A (8.0\", LTE)",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-galaxy-tab-a-2017-80-sm-t385nzdaskz-frontgold-thumb-118791474?$PF_PRD_PNG$",
+                    "color": "золотой,черный",
+                    "capacity": "‎16 ГБ‎"
+                },
+                {
+                    "id": 3,
+                    "name": "Galaxy Tab A 2016 (7.0, LTE)",
+                    "image": "//images.samsung.com/is/image/samsung/kz_ru-galaxy-tab-a-7-0-2016-t285-sm-t285nzkaskz-000000001-front-black-thumb-1?$PF_PRD_PNG$",
+                    "color": "чёрный,белый",
+                    "capacity": ""
+                }
+            ]
+        },
+        {
+            "title": "Galaxy Tab E",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Galaxy Tab E (9.6, 3G)",
+                    "image": "//images.samsung.com/is/image/samsung/kz_ru-galaxy-tab-e-9-6-t561-sm-t561nzkaskz-000000001-front-black-thumb-1?$PF_PRD_PNG$",
+                    "color": "black,white",
+                    "capacity": ""
+                }
+            ]
+        }
+    ]
+}

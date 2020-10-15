@@ -1,0 +1,57 @@
+{
+    "status": "1",
+    "categories": [
+        {
+            "title": "QLED 8K",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "85\" Q950TS QLED 8K Smart TV 2020",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-qled8k-q950ts-qe85q950tsuxce-frontblack-thumb-240316303?$PF_PRD_PNG$",
+                    "size": "‎65‎, ‎75‎, ‎85‎"
+                },
+                {
+                    "id": 1,
+                    "name": "82\" Q800T 8K Smart QLED TV 2020",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-qled8k-q800t-qe82q800tauxce-frontblack-thumb-239936202?$PF_PRD_PNG$",
+                    "size": "‎65”‎, ‎75”‎, ‎82”‎"
+                },
+                {
+                    "id": 2,
+                    "name": "75\" Q900R 8K Smart QLED 2019",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-qled-q900r-row-qe75q900rbuxce-frontblack-thumb-157696270?$PF_PRD_PNG$",
+                    "size": "‎65”‎, ‎75”‎"
+                }
+            ]
+        },
+        {
+            "title": "Soundbars",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "2-канальный Саундбар Sound+  HW-MS550",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-hw-ms550-hw-ms550-ru-frontblack-thumb-65011511?$PF_PRD_PNG$",
+                    "color": "черный"
+                },
+                {
+                    "id": 1,
+                    "name": "200 Вт., 2.1-канальный Беспроводной Саундбар HW-M360",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-soundbar-hw-m360-hw-m360-ru-frontblack-thumb-64144719?$PF_PRD_PNG$",
+                    "color": "черный"
+                },
+                {
+                    "id": 2,
+                    "name": "3.1-канальный Саундбар Sound+ HW-MS650",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-hw-ms650-hw-ms650-ru-fronttitaniumgray-thumb-64144920?$PF_PRD_PNG$",
+                    "color": "kulrang"
+                },
+                {
+                    "id": 3,
+                    "name": "3.1-канальный Саундбар HW-N550",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-hw-n550-hw-n550-ru-frontblack-thumb-123120206?$PF_PRD_PNG$",
+                    "color": "черный"
+                }
+            ]
+        }
+    ]
+}

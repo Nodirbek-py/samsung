@@ -1,0 +1,104 @@
+{
+    "status": "1",
+    "categories": [
+        {
+            "title": "Galaxy Buds",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Galaxy Buds Live",
+                    "image": "//images.samsung.com/is/image/samsung/uz_ru/galaxy-note20/gallery/uz-ru-galaxy-buds-live-r180-sm-r180nzkacac-frontmysticblack-thumb-278153869?$PF_PRD_PNG$",
+                    "color": "черный,белый"
+                },
+                {
+                    "id": 1,
+                    "name": "Galaxy Buds+",
+                    "image": "//images.samsung.com/is/image/samsung/uz_ru/galaxy-s20/gallery/uz-ru-galaxy-buds-plus-r175-sm-r175nzbacac-frontblue-thumb-209107185?$PF_PRD_PNG$",
+                    "color": "голубой,черный,розовый,белый"
+                },
+                {
+                    "id": 2,
+                    "name": "Galaxy Buds",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-galaxy-buds-r170-sm-r170nzkaskz-frontblack-thumb-146356400?$PF_PRD_PNG$",
+                    "color": "чёрный,серебристый,желтый,белый"
+                }
+            ]
+        },
+        {
+            "title": "Galaxy Fit",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Galaxy Fit",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-galaxy-fit-r370-sm-r370nzkaskz-frontblack-thumb-169456347?$PF_PRD_PNG$",
+                    "color": "черный,серебристый"
+                },
+                {
+                    "id": 1,
+                    "name": "Galaxy Fitⓔ",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-galaxy-fite-r375-sm-r375nzkaskz-frontblack-thumb-165243339?$PF_PRD_PNG$",
+                    "color": "черный,желтый,белый"
+                }
+            ]
+        },
+        {
+            "title": "Galaxy Watch",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Galaxy Watch3 сталь 45 мм",
+                    "image": "//images.samsung.com/is/image/samsung/uz_ru/galaxy-note20/gallery/uz-ru-galaxy-watch3-r840-sm-r840nzkacac-frontmysticblack-thumb-278154493?$PF_PRD_PNG$",
+                    "color": "черный,серебристый"
+                },
+                {
+                    "id": 1,
+                    "name": "Galaxy Watch3 сталь 41 мм",
+                    "image": "//images.samsung.com/is/image/samsung/uz_ru/galaxy-note20/gallery/uz-ru-galaxy-watch3-r850-sm-r850nzdacac-frontmysticbronze-thumb-278155152?$PF_PRD_PNG$",
+                    "color": "бронзовый,серебристый"
+                },
+                {
+                    "id": 2,
+                    "name": "Galaxy Watch Active2 Сталь 40 мм",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-galaxy-watch-active-r830-sm-r830nsdacac-frontgold-thumb-252747047?$PF_PRD_PNG$",
+                    "color": "золотой,черный,серебристый"
+                },
+                {
+                    "id": 3,
+                    "name": "Galaxy Watch Active2 Алюминий 40 мм",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-sm-r830nzdacac-sm-r830nzdacac-frontpink-thumb-252747234?$PF_PRD_PNG$",
+                    "color": "розовый,черный,арктика"
+                },
+                {
+                    "id": 4,
+                    "name": "Galaxy Watch Active2 Сталь 44 мм",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-galaxy-watch-active2-r820-sm-r820nsdacac-frontgold-thumb-252726039?$PF_PRD_PNG$",
+                    "color": "золотой,черный,серебристый"
+                },
+                {
+                    "id": 5,
+                    "name": "Galaxy Watch Active2 Алюминий 44 мм",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-galaxy-watch-active2-r830-sm-r820nzdacac-frontpink-thumb-252723353?$PF_PRD_PNG$",
+                    "color": "розовый,черный,арктика"
+                },
+                {
+                    "id": 6,
+                    "name": "Galaxy Watch Active SM-R500",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-galaxy-watch-active-r500-sm-r500nzkaskz-frontblack-thumb-149500783?$PF_PRD_PNG$",
+                    "color": "черный,зеленый,золотой,серебристый"
+                },
+                {
+                    "id": 7,
+                    "name": "Galaxy Watch SM-R800",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-galaxy-watch-r800-sm-r800nzsaskz-frontsilver-thumb-111669303?$PF_PRD_PNG$",
+                    "color": "серебристый"
+                },
+                {
+                    "id": 8,
+                    "name": "Galaxy Watch SM-R810",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-galaxy-watch-r810-sm-r810nzdaskz-frontgold-thumb-111669376?$PF_PRD_PNG$",
+                    "color": "розовое золото,чёрный"
+                }
+            ]
+        }
+    ]
+}
