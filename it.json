@@ -1,0 +1,40 @@
+{
+    "status": "1",
+    "categories": [
+        {
+            "title": "UHD Monitors",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "32\" Монитор Space Monitor S32R750UEI",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-s32r75-ls32r750ueixci-frontblack-thumb-159915443?$PF_PRD_PNG$",
+                    "size": "‎27\"‎, ‎32”‎"
+                },
+                {
+                    "id": 1,
+                    "name": "34\" Изогнутый монитор серии CJ79, C34J791WTI",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-c34j79-lc34j791wtixci-frontwhite-thumb-152219570?$PF_PRD_PNG$",
+                    "size": "‎34\"‎"
+                },
+                {
+                    "id": 2,
+                    "name": "32\" UHD Изогнутый монитор серии UR59C",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-ur59c-lu32r590cwixci-frontblack-thumb-159915507?$PF_PRD_PNG$",
+                    "size": "‎32”‎"
+                },
+                {
+                    "id": 3,
+                    "name": "32\" UHD монитор серии UH85  ",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-u32h85-lu32h850umixci-frontblack-thumb-78009792?$PF_PRD_PNG$",
+                    "size": "‎28‎, ‎32‎"
+                },
+                {
+                    "id": 4,
+                    "name": "28\" UHD-монитор с Технологией AMD FreeSync",
+                    "image": "//images.samsung.com/is/image/samsung/kz_ru-uhd-ue590d-lu28e590ds-ci-021-front-black-thumb-1?$PF_PRD_PNG$",
+                    "size": "‎28‎"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,174 @@
+{
+    "status": "1",
+    "categories": [
+        {
+            "title": "Ovens",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "NV9900J Духовой шкаф с Dual Fans, 70л",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-nv68r1310bbwt-nv68r1310bb-wt-front-thumb-277050748?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 1,
+                    "name": "Духовой шкаф Prezio-VP c Dual Cook, 68 л",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-nv68r5540cbwt-nv68r5540cb-wt-frontblack-thumb-277037123?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 2,
+                    "name": "NV9900J Духовой шкаф с Dual Fans, 68л",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-nv68r2340rswt-nv68r2340rs-wt-front-thumb-277050233?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 3,
+                    "name": "NV9900J Духовой шкаф с Dual Fans, 70л",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-nv68r1310bswt-nv68r1310bs-wt-front-thumb-277050421?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 4,
+                    "name": "Духовой шкаф с Dual Fan, 68 л",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-nv68r5345bbwt-nv68r5345bb-wt-frontblack-thumb-277037319?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 5,
+                    "name": "Духовой шкаф с Dual Fans, 68 л",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-nv68r1340bswt-nv68r1340bs-wt-front-thumb-277050358?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 6,
+                    "name": "NV9900J Духовой шкаф с Dual Fan, 68л",
+                    "image": "//images.samsung.com/is/image/samsung/uz-ru-nv68r2340rbwt-nv68r2340rb-wt-front-thumb-277037382?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 7,
+                    "name": "Prezio Электрический духовой шкаф с Dual Cook, 68 л",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-prezio-vp-electric-oven-with-dual-cook-nv68r3541rs-wt-frontsilver-thumb-178820071?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 8,
+                    "name": "Духовой Шкаф NV7000N Dual Cook Flex, 75 л",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-dual-cook-flex-nv7000n-nv75n7646rb-wt-frontblockonyx-thumb-148869244?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 9,
+                    "name": "NV9900J Электрический духовой шкаф с Технологией Двойного Приготовления, 75 л",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-nv9900j-nv75j5540rs-wt-frontsilver-thumb-71684082?$PF_PRD_PNG$"
+                }
+            ]
+        },
+        {
+            "title": "Cooktops",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Индукционная панель NZ3000H",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-cooktop-nz64h37070k-nz64h37070k-wt-frontblack-thumb-178673276?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 1,
+                    "name": "NA3000H, Газовая варочная поверхность с конфоркой повышенной мощности",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-na64h3030akwt-na64h3030ak-wt-frontblack-thumb-178673300?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 2,
+                    "name": "Индукционная варочная панель  NZ6000K",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-nz6000k-smart-induction-with-virtual-flame-nz64r9777gk-wt-frontblack-thumb-170044912?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 3,
+                    "name": "Индукционная  варочная панель  NZF300G",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-nzf300g-nz63f3nm1ab-wt-frontblack-thumb-71688490?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 4,
+                    "name": "Электрическая (Hi-Light) варочная панель T-Project",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-t-project-c61r1ccmn-bwt-thumb-thumb-62935799?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 5,
+                    "name": "Электрическая (Hi-Light) варочная панель Metro",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-metro-c61r1aeme-bwt-black-thumb-thumb-139807909?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 6,
+                    "name": "Газовая варочная панель NA3000H",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-na64h3010bkwt-na64h3010bk-wt-black-thumb-101525324?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 7,
+                    "name": "Газовая варочная панель NA3000H",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-na64h3030aswt-na64h3030as-wt-thumb-Silver-61590234?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 8,
+                    "name": "Газовая варочная панель NA3000H",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-na64h3010aswt-na64h3010as-wt-thumb-Silver-61605260?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 9,
+                    "name": "Газовая варочная панель NA3000H",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-na3000h-na64h3030bs-wt-frontsilver-thumb-61414918?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 10,
+                    "name": "Газовая варочная панель NA3000H",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-na64h3010akwt-na64h3010ak-wt-thumb-Black-61592271?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 11,
+                    "name": "Электрическая (Hi-Light) варочная панель T-Project",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-c61r1camstbwt-c61r1camst-bwt-front-thumb-61415194?$PF_PRD_PNG$"
+                }
+            ]
+        },
+        {
+            "title": "Microwave ovens",
+            "items": []
+        },
+        {
+            "title": "Dishwashers",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "Встраиваемая посудомоечная машина DW4000RM (45см)",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-dw4000rm-dishwasher-with-less-noise-46db-dw50r4040bb-wt-frontwhite-thumb-169238629?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 1,
+                    "name": "Встраиваемая посудомоечная машина DW5500MM (60см)  ",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-dw5500mm-dw60m5050bb-wt-frontwhite-thumb-167549561?$PF_PRD_PNG$"
+                }
+            ]
+        },
+        {
+            "title": "Hoods",
+            "items": [
+                {
+                    "id": 0,
+                    "name": "NK24M1030IB Телескопическая вытяжка с алюминиевым фильтром, 392 м³/ч",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-nk7000mm--nk24m1030ibur-nk24m1030ib-ur-frontblack-thumb-128016705?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 1,
+                    "name": "NK7000MM Вытяжка настенного типа с сенсорным управлением, 729 м³/ч",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-nk7000m-nk24m7070vb-ur-frontblack-thumb-98368178?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 2,
+                    "name": "NK7000MM Телескопическая вытяжка c алюминиевым фильтром, 392 м³/ч",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-nk7000mm-nk24m1030is-nk24m1030is-ur-frontsilver-thumb-89813493?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 3,
+                    "name": "NK7000 Вытяжка настенного типа с сенсорным управлением, 668 м³/ч",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-nk7000mm-nk24m5070bs-ur-frontsilver-thumb-65776181?$PF_PRD_PNG$"
+                },
+                {
+                    "id": 4,
+                    "name": "NK7000 Вытяжка настенного типа с сенсорным управлением, 668 м³/ч",
+                    "image": "//images.samsung.com/is/image/samsung/kz-ru-nk7000mm-nk24m5060ss-ur-frontsilver-thumb-65776170?$PF_PRD_PNG$"
+                }
+            ]
+        }
+    ]
+}

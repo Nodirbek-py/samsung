@@ -143,14 +143,30 @@ for detail in cards:
     driver_air.get("https://www.samsung.com" + link_detail)
     detail_info = BeautifulSoup(driver_air.page_source, "html.parser")
     energy_efficency = detail_info.find("ul", class_="product-specs__highlights-list").find_all("li")[9]
-    # air_conditioner = {
-    #     "id": id,
-    #     "name": name,
-    #     "image": image,
-    #     "energy efficiency grade": energy_efficency
-    # }
-    # home["categories"][4]["items"].append(air_conditioner) 
+    energy_efficency = energy_efficency.find_all("span")
+    energy = []
+    for i in energy_efficency:
+        energy.append(i.text)
 
-print(energy_efficency)
-energy_efficency = detail_info.find("ul", class_="product-specs__highlights-list").find_all("li")[1].find_all("span", class_="product-specs__highlights-desc")
-print(energy_efficency)
+    if len(energy) < 3:
+        air_conditioner = {
+            "id": id,
+            "name": name,
+            "image": image,
+            "energy efficiency grade": "C"
+        }
+        home["categories"][4]["items"].append(air_conditioner) 
+    else:
+        air_conditioner = {
+            "id": id,
+            "name": name,
+            "image": image,
+            "energy efficiency grade": energy[4]
+        }
+        home["categories"][4]["items"].append(air_conditioner)
+
+
+with open('home.json', 'w', encoding='utf-8') as file:
+   json.dump(home, file, ensure_ascii=False, indent=4)
+
+driver_air.close()
