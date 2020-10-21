@@ -42,7 +42,7 @@ for detail in cards:
     oven = {
         "id": id,
         "name": name,
-        "image": image,
+        "image":"https:" + image,
     }
     kitchen["categories"][0]["items"].append(oven)
 
@@ -59,7 +59,7 @@ for detail in cards:
     cooktops = {
         "id": id,
         "name": name,
-        "image": image,
+        "image":"https:" + image,
     }
     kitchen["categories"][1]["items"].append(cooktops)
 
@@ -76,7 +76,7 @@ for detail in cards:
     microwave = {
         "id": id,
         "name": name,
-        "image": image,
+        "image":"https:" + image,
     }
     kitchen["categories"][2]["items"].append(microwave)
 
@@ -94,7 +94,7 @@ for detail in cards:
     dishwasher = {
         "id": id,
         "name": name,
-        "image": image,
+        "image":"https:" + image,
     }
     kitchen["categories"][3]["items"].append(dishwasher)
 
@@ -112,7 +112,7 @@ for detail in cards:
     hoods = {
         "id": id,
         "name": name,
-        "image": image,
+        "image":"https:" + image,
     }
     kitchen["categories"][4]["items"].append(hoods)
 
