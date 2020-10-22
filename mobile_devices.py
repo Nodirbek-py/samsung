@@ -61,7 +61,9 @@ for i in range(0, len(names)):
         "id": i,
         "name": names[i],
         "image": image_urls[i],
-        "colors": available_colors[i]
+        "params":[{
+            "colors": available_colors[i]
+        }]
     }
 
     mobile["categories"][0]["items"].append(galaxy_z)
@@ -109,8 +111,10 @@ for i in range(0, len(names)):
         "id": i,
         "name": names[i],
         "image": image_urls[i],
-        "colors": color[i],
-        "capacity": available_capacity[i]
+        "params": [{
+            "colors": color[i],
+            "capacity": available_capacity[i]   
+        }]
     }
 
     mobile["categories"][1]["items"].append(galaxy_s)
@@ -157,8 +161,10 @@ for i in range(0, len(names)):
         "id": i,
         "name": names[i],
         "image": image_urls[i],
-        "colors": color[i],
-        "capacity": available_capacity[i]
+        "params": [{
+            "colors": color[i],
+            "capacity": available_capacity[i]   
+        }]
     }
     mobile["categories"][2]["items"].append(galaxy_note)
 driver_note.close()
@@ -215,10 +221,11 @@ for i in range(0, len(names)):
         "id": i,
         "name": names[i],
         "image": image_urls[i],
-        "colors": color[i-1],
-        "capacity": available_capacity[i-2]
+        "params": [{
+            "colors": color[i-1],
+            "capacity": available_capacity[i-2]   
+        }]
     }
-    i
 driver_a.close()
 
 

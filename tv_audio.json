@@ -3,26 +3,7 @@
     "categories": [
         {
             "title": "QLED 8K",
-            "items": [
-                {
-                    "id": 0,
-                    "name": "85\" Q950TS QLED 8K Smart TV 2020",
-                    "image": "https://images.samsung.com/is/image/samsung/uz-ru-qled8k-q950ts-qe85q950tsuxce-frontblack-thumb-240316303?$PF_PRD_PNG$",
-                    "size": "‎65‎, ‎75‎, ‎85‎"
-                },
-                {
-                    "id": 1,
-                    "name": "82\" Q800T 8K Smart QLED TV 2020",
-                    "image": "https://images.samsung.com/is/image/samsung/uz-ru-qled8k-q800t-qe82q800tauxce-frontblack-thumb-239936202?$PF_PRD_PNG$",
-                    "size": "‎65”‎, ‎75”‎, ‎82”‎"
-                },
-                {
-                    "id": 2,
-                    "name": "75\" Q900R 8K Smart QLED 2019",
-                    "image": "https://images.samsung.com/is/image/samsung/kz-ru-qled-q900r-row-qe75q900rbuxce-frontblack-thumb-157696270?$PF_PRD_PNG$",
-                    "size": "‎65”‎, ‎75”‎"
-                }
-            ]
+            "items": []
         },
         {
             "title": "QLED 4K",
@@ -31,73 +12,121 @@
                     "id": 0,
                     "name": "75\" Q60R 4K Smart QLED TV 2019",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-qled-q60r-row-qe75q60rauxce-frontblack-thumb-150828469?$PF_PRD_PNG$",
-                    "size": "‎49”‎, ‎55”‎, ‎65”‎, ‎75”‎"
+                    "params": [
+                        {
+                            "size": "‎49”‎, ‎55”‎, ‎65”‎, ‎75”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "75\" Q95T 4K Smart QLED TV 2020",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-qledtv-q95t-qe75q95tauxce-frontsilver-thumb-239827163?$PF_PRD_PNG$",
-                    "size": "‎55”‎, ‎65”‎, ‎75”‎"
+                    "params": [
+                        {
+                            "size": "‎55”‎, ‎65”‎, ‎75”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "55\" Q80T 4K Smart QLED TV 2020",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-qledtv-q80t-qe55q80tauxce-frontsilver-thumb-239826510?$PF_PRD_PNG$",
-                    "size": "‎55”‎"
+                    "params": [
+                        {
+                            "size": "‎55”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "85\" Q70T 4K Smart QLED TV 2020",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-qledtv-q70t-qe85q70tauxce-frontgrey-thumb-239801233?$PF_PRD_PNG$",
-                    "size": "‎55”‎, ‎65”‎, ‎75”‎, ‎85”‎"
+                    "params": [
+                        {
+                            "size": "‎55”‎, ‎65”‎, ‎75”‎, ‎85”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 4,
                     "name": "75\" Q60T 4K Smart QLED TV 2020",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-qledtv-q60t-qe75q60tauxce-front--black-thumb-254426715?$PF_PRD_PNG$",
-                    "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎58\"‎, ‎65”‎, ‎75”‎"
+                    "params": [
+                        {
+                            "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎58\"‎, ‎65”‎, ‎75”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 5,
                     "name": "75\" Q90R 4K Smart QLED TV 2019",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-qled-q90r-row-qe75q90rauxce-frontblack-thumb-154780494?$PF_PRD_PNG$",
-                    "size": "‎55”‎, ‎65”‎, ‎75”‎"
+                    "params": [
+                        {
+                            "size": "‎55”‎, ‎65”‎, ‎75”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 6,
                     "name": "65\" Q80R 4K Smart QLED TV 2019",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-qled-q80r-row-qe65q80rauxce-frontsilver-thumb-151829372?$PF_PRD_PNG$",
-                    "size": "‎65”‎"
+                    "params": [
+                        {
+                            "size": "‎65”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 7,
                     "name": "65\" Q70R 4K Smart QLED TV 2019",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-qled-q70r-row-qe65q70rauxce-frontblack-thumb-151828737?$PF_PRD_PNG$",
-                    "size": "‎55”‎, ‎65”‎"
+                    "params": [
+                        {
+                            "size": "‎55”‎, ‎65”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 8,
                     "name": "65\" Q67R 4K Smart QLED TV 2019",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-qled-q67r-row-qe65q67rauxce-frontsilver-thumb-151828411?$PF_PRD_PNG$",
-                    "size": "‎55”‎, ‎65”‎"
+                    "params": [
+                        {
+                            "size": "‎55”‎, ‎65”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 9,
                     "name": "75\" Q9F 4K Плоский Smart QLED TV",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-qledtv-q9fn-qe75q9fnauxce-frontsilver-thumb-98004162?$PF_PRD_PNG$",
-                    "size": "‎65”‎, ‎75”‎"
+                    "params": [
+                        {
+                            "size": "‎65”‎, ‎75”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 10,
                     "name": "75\" Q7F 4K Плоский Smart QLED TV 2018",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-qledtv-q7fn-qe75q7fnauxce-fronttitanumsilver-thumb-97734434?$PF_PRD_PNG$",
-                    "size": "‎55”‎, ‎65”‎, ‎75”‎"
+                    "params": [
+                        {
+                            "size": "‎55”‎, ‎65”‎, ‎75”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 11,
                     "name": "75\" Q6F 4K Плоский Smart QLED TV",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-qledtv-q6fn-qe75q6fnauxce-frontsilver-thumb-107193690?$PF_PRD_PNG$",
-                    "size": "‎49”‎, ‎55”‎, ‎65”‎, ‎75”‎"
+                    "params": [
+                        {
+                            "size": "‎49”‎, ‎55”‎, ‎65”‎, ‎75”‎"
+                        }
+                    ]
                 }
             ]
         },
@@ -108,25 +137,41 @@
                     "id": 0,
                     "name": "65\" Crystal UHD 4K Smart TV TU8500 Series 8",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-uhd-tu8500-ue65tu8500uxce-frontblack-thumb-239865564?$PF_PRD_PNG$",
-                    "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎"
+                    "params": [
+                        {
+                            "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "82\" Crystal UHD 4K Smart TV TU8000 Series 8",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-uhd-tu8000-ue82tu8000uxce-frontblack-thumb-239840456?$PF_PRD_PNG$",
-                    "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎, ‎75”‎, ‎82”‎"
+                    "params": [
+                        {
+                            "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎, ‎75”‎, ‎82”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "75\" Crystal UHD 4K Smart TV TU7500 Series 7",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-uhd-tu7500-ue75tu7500uxce-frontblack-thumb-239864967?$PF_PRD_PNG$",
-                    "size": "‎50\"‎, ‎55”‎, ‎65”‎, ‎75”‎"
+                    "params": [
+                        {
+                            "size": "‎50\"‎, ‎55”‎, ‎65”‎, ‎75”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "75\" Crystal UHD 4K Smart TV TU7100 Series 7",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-uhd-tu7000-ue75tu7100uxce-front-thumb-239838626?$PF_PRD_PNG$",
-                    "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎58\"‎, ‎65”‎, ‎70”‎, ‎75”‎"
+                    "params": [
+                        {
+                            "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎58\"‎, ‎65”‎, ‎70”‎, ‎75”‎"
+                        }
+                    ]
                 }
             ]
         },
@@ -137,7 +182,11 @@
                     "id": 0,
                     "name": "65\" Premium UHD 4K Smart TV RU8000 Series 8",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-ru8000-global-ue65ru8000uxce-frontblack-thumb-154779975?$PF_PRD_PNG$",
-                    "size": "‎49”‎, ‎55”‎, ‎65”‎"
+                    "params": [
+                        {
+                            "size": "‎49”‎, ‎55”‎, ‎65”‎"
+                        }
+                    ]
                 }
             ]
         },
@@ -148,49 +197,81 @@
                     "id": 0,
                     "name": "65\" Premium UHD 4K Smart TV RU8000 Series 8",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-ru8000-global-ue65ru8000uxce-frontblack-thumb-154779975?$PF_PRD_PNG$",
-                    "size": "‎49”‎, ‎55”‎, ‎65”‎"
+                    "params": [
+                        {
+                            "size": "‎49”‎, ‎55”‎, ‎65”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "65\" Crystal UHD 4K Smart TV TU8500 Series 8",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-uhd-tu8500-ue65tu8500uxce-frontblack-thumb-239865564?$PF_PRD_PNG$",
-                    "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎"
+                    "params": [
+                        {
+                            "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "82\" Crystal UHD 4K Smart TV TU8000 Series 8",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-uhd-tu8000-ue82tu8000uxce-frontblack-thumb-239840456?$PF_PRD_PNG$",
-                    "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎, ‎75”‎, ‎82”‎"
+                    "params": [
+                        {
+                            "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎, ‎75”‎, ‎82”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "75\" Crystal UHD 4K Smart TV TU7500 Series 7",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-uhd-tu7500-ue75tu7500uxce-frontblack-thumb-239864967?$PF_PRD_PNG$",
-                    "size": "‎50\"‎, ‎55”‎, ‎65”‎, ‎75”‎"
+                    "params": [
+                        {
+                            "size": "‎50\"‎, ‎55”‎, ‎65”‎, ‎75”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 4,
                     "name": "75\" Crystal UHD 4K Smart TV TU7100 Series 7",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-uhd-tu7000-ue75tu7100uxce-front-thumb-239838626?$PF_PRD_PNG$",
-                    "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎58\"‎, ‎65”‎, ‎70”‎, ‎75”‎"
+                    "params": [
+                        {
+                            "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎58\"‎, ‎65”‎, ‎70”‎, ‎75”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 5,
                     "name": "65\" NU7500 Изогнутый Smart 4K UHD TV",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-uhdtv-nu7500-eu-ue65nu7500uxce-lperspectiveblack-thumb-97728140?$PF_PRD_PNG$",
-                    "size": "‎49”‎, ‎55”‎, ‎65”‎"
+                    "params": [
+                        {
+                            "size": "‎49”‎, ‎55”‎, ‎65”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 6,
                     "name": "65\" UHD 4K Smart TV RU7400 Series 7",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-ru7400-global-ue65ru7400uxce-frontsilver-thumb-157688799?$PF_PRD_PNG$",
-                    "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎"
+                    "params": [
+                        {
+                            "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 7,
                     "name": "75\" UHD 4K Smart TV RU7100 Series 7",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-ru7100-ue75ru7100uxce-frontblack-thumb-157688030?$PF_PRD_PNG$",
-                    "size": "‎50\"‎, ‎55”‎, ‎58\"‎, ‎65”‎, ‎75”‎"
+                    "params": [
+                        {
+                            "size": "‎50\"‎, ‎55”‎, ‎58\"‎, ‎65”‎, ‎75”‎"
+                        }
+                    ]
                 }
             ]
         },
@@ -201,55 +282,91 @@
                     "id": 0,
                     "name": "43\" FHD Smart TV T5300 Series 5",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-fhd-t5300-ue43t5300auxce-frontblack-thumb-239800282?$PF_PRD_PNG$",
-                    "size": "‎32”‎, ‎43”‎"
+                    "params": [
+                        {
+                            "size": "‎32”‎, ‎43”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "32\" N4510 Плоский HD TV",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-hdtv-n4510-ue32n4510auxce-frontwhite-thumb-107193244?$PF_PRD_PNG$",
-                    "size": "‎32”‎"
+                    "params": [
+                        {
+                            "size": "‎32”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "32\" HD Smart TV T4500 ",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-hd-t4300-ue32t4500auxce-frontblack-thumb-237903389?$PF_PRD_PNG$",
-                    "size": "‎32”‎"
+                    "params": [
+                        {
+                            "size": "‎32”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "32\" FHD Smart TV N5300 Series 5",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-fhdtv-n5300-global-ue32n5300auxru-frontblack-thumb-294434623?$PF_PRD_PNG$",
-                    "size": "‎32”‎"
+                    "params": [
+                        {
+                            "size": "‎32”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 4,
                     "name": "43\" N5300 Плоский Smart FHD TV",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-fhdtv-n5300-ue43n5300auxce-frontblack-thumb-107193278?$PF_PRD_PNG$",
-                    "size": "‎43”‎"
+                    "params": [
+                        {
+                            "size": "‎43”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 5,
                     "name": "43\" N5300 Плоский Smart FHD TV",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-fhdtv-n5500-ue43n5500auxce-frontblack-thumb-107193331?$PF_PRD_PNG$",
-                    "size": "‎43”‎"
+                    "params": [
+                        {
+                            "size": "‎43”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 6,
                     "name": "32\" N4000 Плоский HD TV",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-hdtv-n4000-global-ue32n4000auxce-frontblack-thumb-100606618?$PF_PRD_PNG$",
-                    "size": "‎32”‎"
+                    "params": [
+                        {
+                            "size": "‎32”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 7,
                     "name": "43\" N5000 Плоский FHD TV",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-fhdtv-n5000-global-ue43n5000auxce-frontblack-thumb-102384753?$PF_PRD_PNG$",
-                    "size": "‎43”‎"
+                    "params": [
+                        {
+                            "size": "‎43”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 8,
                     "name": "32\" J4500 Плоский HD TV",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-hd-j4500-ue32j4500akxkz-black-thumb-61088390?$PF_PRD_PNG$",
-                    "size": "‎32‎"
+                    "params": [
+                        {
+                            "size": "‎32‎"
+                        }
+                    ]
                 }
             ]
         },
@@ -260,7 +377,11 @@
                     "id": 0,
                     "name": "55\" QLED The Serif TV 2020",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-the-serif-ls01t-qe55ls01tauxce-frontwhite-thumb-241140086?$PF_PRD_PNG$",
-                    "size": "‎43‎, ‎49‎, ‎55‎"
+                    "params": [
+                        {
+                            "size": "‎43‎, ‎49‎, ‎55‎"
+                        }
+                    ]
                 }
             ]
         },
@@ -271,13 +392,21 @@
                     "id": 0,
                     "name": "2019 The Frame 4K Smart ТВ",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-qe55ls03rauxce-qe65ls03rauxce-frontblack-thumb-293358955?$PF_PRD_PNG$",
-                    "size": "‎55‎, ‎65‎"
+                    "params": [
+                        {
+                            "size": "‎55‎, ‎65‎"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "75\" QLED The Frame TV 2020",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-the-frame-ls03t-qe75ls03tauxce-frontblack-thumb-241039047?$PF_PRD_PNG$",
-                    "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎, ‎75”‎"
+                    "params": [
+                        {
+                            "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎, ‎75”‎"
+                        }
+                    ]
                 }
             ]
         },
@@ -288,25 +417,41 @@
                     "id": 0,
                     "name": "43\" QLED The Sero TV 2020",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-the-sero-ls05t-qe43ls05tauxce-frontnavyblue-thumb-296995666?$PF_PRD_PNG$",
-                    "size": "‎43”‎"
+                    "params": [
+                        {
+                            "size": "‎43”‎"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "2019 The Frame 4K Smart ТВ",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-qe55ls03rauxce-qe65ls03rauxce-frontblack-thumb-293358955?$PF_PRD_PNG$",
-                    "size": "‎55‎, ‎65‎"
+                    "params": [
+                        {
+                            "size": "‎55‎, ‎65‎"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "55\" QLED The Serif TV 2020",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-the-serif-ls01t-qe55ls01tauxce-frontwhite-thumb-241140086?$PF_PRD_PNG$",
-                    "size": "‎43‎, ‎49‎, ‎55‎"
+                    "params": [
+                        {
+                            "size": "‎43‎, ‎49‎, ‎55‎"
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "75\" QLED The Frame TV 2020",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-the-frame-ls03t-qe75ls03tauxce-frontblack-thumb-241039047?$PF_PRD_PNG$",
-                    "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎, ‎75”‎"
+                    "params": [
+                        {
+                            "size": "‎43”‎, ‎50\"‎, ‎55”‎, ‎65”‎, ‎75”‎"
+                        }
+                    ]
                 }
             ]
         },
@@ -317,25 +462,41 @@
                     "id": 0,
                     "name": "2-канальный Саундбар Sound+  HW-MS550",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-hw-ms550-hw-ms550-ru-frontblack-thumb-65011511?$PF_PRD_PNG$",
-                    "color": "черный"
+                    "params": [
+                        {
+                            "colors": "черный"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "200 Вт., 2.1-канальный Беспроводной Саундбар HW-M360",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-soundbar-hw-m360-hw-m360-ru-frontblack-thumb-64144719?$PF_PRD_PNG$",
-                    "color": "черный"
+                    "params": [
+                        {
+                            "colors": "черный"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "3.1-канальный Саундбар Sound+ HW-MS650",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-hw-ms650-hw-ms650-ru-fronttitaniumgray-thumb-64144920?$PF_PRD_PNG$",
-                    "color": "kulrang"
+                    "params": [
+                        {
+                            "colors": "kulrang"
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "3.1-канальный Саундбар HW-N550",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-hw-n550-hw-n550-ru-frontblack-thumb-123120206?$PF_PRD_PNG$",
-                    "color": "черный"
+                    "params": [
+                        {
+                            "colors": "черный"
+                        }
+                    ]
                 }
             ]
         }

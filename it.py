@@ -54,7 +54,8 @@ for detail in cards:
         "id": id,
         "name": name,
         "image":"https:" + image,
-        "size": size.replace("\\u200e", "")
+        "params": [{"size": size.replace("\\u200e", "")}]
+        
     }
     monitors["categories"][0]["items"].append(monitor_uhd) 
 # Curved monitors
@@ -78,7 +79,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image":"https:" + image,
-        "size": size.replace("\\u200e", "")
+        "params": [{"size": size.replace("\\u200e", "")}]
     }
     monitors["categories"][1]["items"].append(monitor_curved) 
 
@@ -103,7 +104,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image":"https:" + image,
-        "size": size.replace("\\u200e", "")
+        "params": [{"size": size.replace("\\u200e", "")}]
     }
     monitors["categories"][2]["items"].append(monitor_tv)
 
@@ -128,7 +129,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image":"https:" + image,
-        "size": size.replace("\\u200e", "")
+        "params": [{"size": size.replace("\\u200e", "")}]
     }
     monitors["categories"][3]["items"].append(monitor_led)
 # Professional Monitors
@@ -152,7 +153,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image":"https:" + image,
-        "size": size.replace("\\u200e", "")
+        "params": [{"size": size.replace("\\u200e", "")}]
     }
     monitors["categories"][4]["items"].append(monitor_pro)
 
@@ -177,7 +178,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image":"https:" + image,
-        "size": size.replace("\\u200e", "")
+        "params": [{"size": size.replace("\\u200e", "")}]
     }
     monitors["categories"][5]["items"].append(monitor_gaming)
 

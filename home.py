@@ -92,8 +92,10 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
+        "params": [{
         "volume": volume,
         "size": size
+        }]
     }
     home["categories"][0]["items"].append(washing)
 
@@ -116,8 +118,10 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
+        "params": [{
         "volume": volume,
         "size": size
+        }]
     }
     home["categories"][1]["items"].append(washing_non)
 
@@ -156,8 +160,11 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "useful": volume.replace('\\xa0', ""),
-        "height": height.replace("\\xa0", "")
+        "params": [{
+            "useful": volume.replace('\\xa0', ""),
+            "height": height.replace("\\xa0", "")
+        }]
+        
     }
     home["categories"][2]["items"].append(refregirator)
 # Refregirator Down
@@ -197,8 +204,10 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "useful": volume.replace('\\xa0', ""),
-        "height": height.replace("\\xa0", "")
+        "params": [{
+            "useful": volume.replace('\\xa0', ""),
+            "height": height.replace("\\xa0", "")
+        }]
     }
     home["categories"][3]["items"].append(refregirator_down)
 
@@ -227,8 +236,10 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "useful": volume.replace('\\xa0', ""),
-        "height": height.replace("\\xa0", "")
+        "params": [{
+            "useful": volume.replace('\\xa0', ""),
+            "height": height.replace("\\xa0", "")
+        }]
     }
     home["categories"][4]["items"].append(refregirator_sbs)
 
@@ -253,7 +264,9 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "power": power_of_suction
+        "params": [{
+            "power": power_of_suction
+        }]
     }
     home["categories"][5]["items"].append(vacuum_cleaner) 
 # Vacumm Cleaners without bag
@@ -275,7 +288,9 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "power": power_of_suction
+        "params": [{
+            "power": power_of_suction
+        }]
     }
     home["categories"][6]["items"].append(vacuum_cleaner_bagless)
 
@@ -304,8 +319,10 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "colors": str(','.join(color)),
-        "power": ""
+        "params": [{
+            "colors": str(','.join(color)),
+            "power": power_of_suction
+        }]
     }
     home["categories"][7]["items"].append(vacuum_cleaner_dry)
 
@@ -334,8 +351,10 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "colors": str(','.join(color)),
-        "power": power_of_suction
+        "params": [{
+            "colors": str(','.join(color)),
+            "power": power_of_suction
+        }]
     }
     home["categories"][8]["items"].append(vacuum_cleaner_vertical)
 
@@ -373,8 +392,10 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "colors": str(','.join(color)),
-        "power": power_of_suction
+        "params": [{
+            "colors": str(','.join(color)),
+            "power": power_of_suction
+        }]
     }
     home["categories"][10]["items"].append(vacuum_cleaner_wireless)
 
@@ -399,7 +420,9 @@ steam_case = {
     "id": id,
     "name": name,
     "image": "https:" + image,
-    "character": "Парогенератор, Дезодорирующий фильтр, Тепловая сушка, Защита от складок на одежде"
+    "params": [{
+        "character": "Парогенератор, Дезодорирующий фильтр, Тепловая сушка, Защита от складок на одежде"
+    }]
 }
 home["categories"][11]["items"].append(steam_case) 
 
@@ -430,7 +453,9 @@ for detail in cards:
             "id": id,
             "name": name,
             "image": "https:" + image,
-            "energy": "C"
+            "params": [{
+                "energy": "C"
+            }]
         }
         home["categories"][12]["items"].append(air_conditioner) 
     else:
@@ -438,7 +463,7 @@ for detail in cards:
             "id": id,
             "name": name,
             "image": "https:" + image,
-            "energy": energy[4]
+            "params":[{"energy": energy[4]}]
         }
         home["categories"][12]["items"].append(air_conditioner)
 # Air Conditioner Standing
@@ -446,7 +471,7 @@ air_conditioner_standing = {
             "id": "None",
             "name": "None",
             "image": "None",
-            "energy": "None"
+            "params":[{"energy": "None"}]
     }
 home["categories"][13]["items"].append(air_conditioner_standing)
 

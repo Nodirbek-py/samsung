@@ -8,57 +8,89 @@
                     "id": 0,
                     "name": "Стиральная машина WW6100R с ускоренным режимом, Bixby, Eco Bubble, 8 кг",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-front-loading-washer-ww80r62lvfwdlp-ww80r62lvfwdld-frontwhite-thumb-172781282?$PF_PRD_PNG$",
-                    "volume": "8.0 кг",
-                    "size": "600 x 850 x 450 мм"
+                    "params": [
+                        {
+                            "volume": "8.0 кг",
+                            "size": "600 x 850 x 450 мм"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "Стиральная машина WW4100R с EcoBubble, 8 кг",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-front-loading-washer-ww80r42lxfwdld-ww80r42lxfwdld-frontwhite-thumb-172781838?$PF_PRD_PNG$",
-                    "volume": "8.0 кг",
-                    "size": "600 x 850 x 450 мм"
+                    "params": [
+                        {
+                            "volume": "8.0 кг",
+                            "size": "600 x 850 x 450 мм"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "Стиральная машина WW4100R с EcoBubble, 8 кг",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-front-loading-washer-ww80r42lxesdld-ww80r42lxesdld-frontsilver-thumb-172781720?$PF_PRD_PNG$",
-                    "volume": "8.0 кг",
-                    "size": "600 x 850 x 450 мм"
+                    "params": [
+                        {
+                            "volume": "8.0 кг",
+                            "size": "600 x 850 x 450 мм"
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "Стиральная машина WW6600R с AddWash, 7 кг",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-front-loading-washer-ww70r62latwdld-ww70r62latwdld-frontwhite-thumb-172780869?$PF_PRD_PNG$",
-                    "volume": "7.0 кг",
-                    "size": "600 x 850 x 450 мм"
+                    "params": [
+                        {
+                            "volume": "7.0 кг",
+                            "size": "600 x 850 x 450 мм"
+                        }
+                    ]
                 },
                 {
                     "id": 4,
                     "name": "Стиральная машина WW5000J с EcoBubble, 7 кг",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-ww70j52e0hwdld-ww70j52e0hwdld-frontwhite-thumb-176449571?$PF_PRD_PNG$",
-                    "volume": "7.0 кг",
-                    "size": "600 x 850 x 450 мм"
+                    "params": [
+                        {
+                            "volume": "7.0 кг",
+                            "size": "600 x 850 x 450 мм"
+                        }
+                    ]
                 },
                 {
                     "id": 5,
                     "name": "Стиральная машина WW5000J с EcoBubble, 7 кг",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-ww70j52e0hsdld-ww70j52e0hsdld-frontsilver-thumb-176449558?$PF_PRD_PNG$",
-                    "volume": "7.0 кг",
-                    "size": "600 x 850 x 450 мм"
+                    "params": [
+                        {
+                            "volume": "7.0 кг",
+                            "size": "600 x 850 x 450 мм"
+                        }
+                    ]
                 },
                 {
                     "id": 6,
                     "name": "Стиральная машина WW4600R с AddWash, Eco Bubble, 7 кг",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-front-loading-washer-ww70r421xtwdld-ww70r421xtwdld-frontwhite-thumb-172781688?$PF_PRD_PNG$",
-                    "volume": "7.0 кг",
-                    "size": "600 x 850 x 450мм"
+                    "params": [
+                        {
+                            "volume": "7.0 кг",
+                            "size": "600 x 850 x 450мм"
+                        }
+                    ]
                 },
                 {
                     "id": 7,
                     "name": "Стиральная машина WW4600R с Add Wash, Eco Bubble, 7 кг",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-front-loading-washer-ww70r421xssdld-ww70r421xssdld-frontsilver-thumb-172781359?$PF_PRD_PNG$",
-                    "volume": "7.0 кг",
-                    "size": "600 x 850 x 450мм"
+                    "params": [
+                        {
+                            "volume": "7.0 кг",
+                            "size": "600 x 850 x 450мм"
+                        }
+                    ]
                 }
             ]
         },
@@ -69,8 +101,12 @@
                     "id": 0,
                     "name": "WD7800N Стиральная машина",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-combo-wd7800n-wd90n74lnoo-lp-frontjetblack-thumb-98348681?$PF_PRD_PNG$",
-                    "volume": "9.0 кг",
-                    "size": "600x850x600 мм"
+                    "params": [
+                        {
+                            "volume": "9.0 кг",
+                            "size": "600x850x600 мм"
+                        }
+                    ]
                 }
             ]
         },
@@ -81,85 +117,133 @@
                     "id": 0,
                     "name": "Холодильник RT5000K с верхней морозильной камерой и технологией Twin Cooling Plus™, 380 л",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-rt38k5535efwt-rt38k5535ef-wt-frontivorywhite-thumb-268328742?$PF_PRD_PNG$",
-                    "useful": "384 л",
-                    "height": "1785 мм мм"
+                    "params": [
+                        {
+                            "useful": "384 л",
+                            "height": "1785 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "Холодильник с верхней морозильной камерой RT22HAR4DSA, 234 л",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-rt22har4dsawt-rt22har4dsa-wt-frontsilver-thumb-245833603?$PF_PRD_PNG$",
-                    "useful": "234 л",
-                    "height": " 1545 мм мм"
+                    "params": [
+                        {
+                            "useful": "234 л",
+                            "height": " 1545 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "Холодильник с верхней морозильной камерой RT25HAR4DWW, 255л",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-rt25har4dwwwt-rt25har4dww-wt-front-thumb-245856450?$PF_PRD_PNG$",
-                    "useful": "255 л",
-                    "height": " 1635 мм мм"
+                    "params": [
+                        {
+                            "useful": "255 л",
+                            "height": " 1635 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "Холодильник с верхней морозильной камерой RT22HAR4DWW, 234 л",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-rt22har4dwwwt-rt22har4dww-wt-frontwhite-thumb-245856412?$PF_PRD_PNG$",
-                    "useful": "234 л",
-                    "height": " 1545 мм мм"
+                    "params": [
+                        {
+                            "useful": "234 л",
+                            "height": " 1545 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 4,
                     "name": "Холодильник с верхней морозильной камерой RT25HAR4DSA, 255 л",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-rt25har4dsawt-rt25har4dsa-wt-frontsilver-thumb-245856426?$PF_PRD_PNG$",
-                    "useful": "255 л",
-                    "height": " 1635 мм мм"
+                    "params": [
+                        {
+                            "useful": "255 л",
+                            "height": " 1635 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 5,
                     "name": "RT6000K Холодильник с двухконтурной системой Twin Cooling Plus™, 530 л",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-rt53k6340bswt-rt53k6340bs-wt-frontblack-thumb-245856527?$PF_PRD_PNG$",
-                    "useful": "528 л",
-                    "height": "1855 мм мм"
+                    "params": [
+                        {
+                            "useful": "528 л",
+                            "height": "1855 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 6,
                     "name": "RT7000K Холодильник с верхней морозильной камерой с технологией Twin Cooling Plus™, 620 л",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-rt62k7110slwt-rt62k7110sl-wt-frontsilver-thumb-245856548?$PF_PRD_PNG$",
-                    "useful": "618 л",
-                    "height": " 1862 мм мм"
+                    "params": [
+                        {
+                            "useful": "618 л",
+                            "height": " 1862 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 7,
                     "name": "RT7000K Холодильник с верхней морозильной камерой с технологией Twin Cooling Plus™, 620 л",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-rt62k7110efwt-rt62k7110ef-wt-frontvanilla-thumb-245856611?$PF_PRD_PNG$",
-                    "useful": "618 л",
-                    "height": " 1862 мм мм"
+                    "params": [
+                        {
+                            "useful": "618 л",
+                            "height": " 1862 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 8,
                     "name": "Холодильник RT6500M TMF с Flex Zone, 628 л.",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-rt6500m-rt21m6211sg-wt-frontblack-thumb-187607348?$PF_PRD_PNG$",
-                    "useful": "628 ℓ",
-                    "height": "1722 мм мм"
+                    "params": [
+                        {
+                            "useful": "628 ℓ",
+                            "height": "1722 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 9,
                     "name": "RT7000 Холодильник с верхней морозильной камерой с технологией Twin Cooling Plus™, 528 л",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-top-mount-freezer-rt53k6340ut-rt53k6340ut-wt-frontblue-thumb-63582840?$PF_PRD_PNG$",
-                    "useful": "528 л.",
-                    "height": "1855 мм мм"
+                    "params": [
+                        {
+                            "useful": "528 л.",
+                            "height": "1855 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 10,
                     "name": "RT6000 Холодильник с верхней морозильной камерой с технологией Twin Cooling Plus™, 453 л",
                     "image": "https://images.samsung.com/is/image/samsung/kz_ru-top-mount-freezer-rt46k6360sl-rt46k6360sl-wt-008-front-silver-thumb-1?$PF_PRD_PNG$",
-                    "useful": "453 ",
-                    "height": "1825  мм"
+                    "params": [
+                        {
+                            "useful": "453 ",
+                            "height": "1825  мм"
+                        }
+                    ]
                 },
                 {
                     "id": 11,
                     "name": "RT6000 Холодильник с верхней морозильной камерой с технологией Twin Cooling Plus™, 526 л",
                     "image": "https://images.samsung.com/is/image/samsung/kz_ru-top-mount-freezer-rt53k6530sl-rt53k6530sl-wt-010-front-silver-thumb-1?$PF_PRD_PNG$",
-                    "useful": "526 ",
-                    "height": "1855  мм"
+                    "params": [
+                        {
+                            "useful": "526 ",
+                            "height": "1855  мм"
+                        }
+                    ]
                 }
             ]
         },
@@ -170,57 +254,89 @@
                     "id": 0,
                     "name": "Холодильник с увеличенным полезным объёмом SpaceMax™, 367 л",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-rb37j5041b1wt-rb37j5041b1-wt-frontblack-thumb-181733662?$PF_PRD_PNG$",
-                    "useful": "526 ",
-                    "height": "2010 mm мм"
+                    "params": [
+                        {
+                            "useful": "387 ℓ",
+                            "height": "2010 mm мм"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "RT7000 Холодильник с двухконтурной системой Twin Cooling Plus™, 406л",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-ref-bmf-rb7000-rb41r7847dx-wt-frontbrown-thumb-184547304?$PF_PRD_PNG$",
-                    "useful": "526 ",
-                    "height": "2016 мм мм"
+                    "params": [
+                        {
+                            "useful": "433 л",
+                            "height": "2016 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "RB5000 Холодильник с нижней морозильной камерой с технологией Metal cooling™, 367 л",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-bottom-mount-freezer-rb37j5441sa-rb37j5441sa-wt-frontsilver-thumb-75075773?$PF_PRD_PNG$",
-                    "useful": "367 л",
-                    "height": "2010 мм мм"
+                    "params": [
+                        {
+                            "useful": "367 л",
+                            "height": "2010 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "RB5000 Холодильник с нижней морозильной камерой с технологией Metal cooling™, 367 л",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-bottom-mount-freezer-rb37j5461ef-rb37j5461ef-wt-thumb-Vanilla-Beige-75434745?$PF_PRD_PNG$",
-                    "useful": "367 л",
-                    "height": "2010 мм мм"
+                    "params": [
+                        {
+                            "useful": "367 л",
+                            "height": "2010 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 4,
                     "name": "RB6000 Нижняя морозильная камера с технологией Metal cooling™, 367 л  ",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-bottom-mount-freezer-rb37k63412c-wt-frontblack-thumb-63586550?$PF_PRD_PNG$",
-                    "useful": "367 л",
-                    "height": "2010 мм мм"
+                    "params": [
+                        {
+                            "useful": "367 л",
+                            "height": "2010 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 5,
                     "name": "RB6000 Холодильник с нижней морозильной камерой с технологией Metal cooling™, 367 л  ",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-bottom-mount-freezer-rb37k63411l-wt-frontwhite-thumb-63586464?$PF_PRD_PNG$",
-                    "useful": "387 л",
-                    "height": "2010 мм мм"
+                    "params": [
+                        {
+                            "useful": "387 л",
+                            "height": "2010 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 6,
                     "name": "RB6000 Холодильник с нижней морозильной камерой с технологией Metal cooling™, 367 л",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-bottom-mount-freezer-rb37k63412a-wt-front-thumb-63586520?$PF_PRD_PNG$",
-                    "useful": "367 л",
-                    "height": "2010 мм мм"
+                    "params": [
+                        {
+                            "useful": "367 л",
+                            "height": "2010 мм мм"
+                        }
+                    ]
                 },
                 {
                     "id": 7,
                     "name": "BAROSA Холодильник с Нижней морозильной камерой с технологией Digital Inverter Compressor, 435 л",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-bottom-mount-freezer-rl4353ebasl-rl4353ebasl-wt-silver-thumb-Front-61097627?$PF_PRD_PNG$",
-                    "useful": "435 л",
-                    "height": "1850 мм мм"
+                    "params": [
+                        {
+                            "useful": "435 л",
+                            "height": "1850 мм мм"
+                        }
+                    ]
                 }
             ]
         },
@@ -231,36 +347,56 @@
                     "id": 0,
                     "name": "Холодильник с RS5000RC c технологией SpaceMax™",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-refrg-sbs-rs5000rc-rs61r5001f8-wt-frontgold-thumb-163230162?$PF_PRD_PNG$",
-                    "useful": "647 ℓ",
-                    "height": "1780 мм"
+                    "params": [
+                        {
+                            "useful": "647 ℓ",
+                            "height": "1780 мм"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "Холодильник RS5000RC c технологией SpaceMax™ и Metal Cooling",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-ref-sbs-rs5000-rs64r5331b4-wt-frontblack-thumb-163230001?$PF_PRD_PNG$",
-                    "useful": "660 ℓ",
-                    "height": "1780 мм"
+                    "params": [
+                        {
+                            "useful": "660 ℓ",
+                            "height": "1780 мм"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "Холодильник RS5000RC c технологией SpaceMax™ и Metal Cooling  ",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-ref-sbs-rs5000rc-rs63r5571sl-wt-frontsilver-thumb-163230056?$PF_PRD_PNG$",
-                    "useful": "670 ℓ",
-                    "height": "1780 мм"
+                    "params": [
+                        {
+                            "useful": "670 ℓ",
+                            "height": "1780 мм"
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "Холодильник RS5000RC c технологией SpaceMax™ и Metal Cooling  ",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-refr-sbs-rs5000rc-rs61r5041sl-wt-frontsilver-thumb-163230121?$PF_PRD_PNG$",
-                    "useful": "647 ℓ",
-                    "height": "1780 мм"
+                    "params": [
+                        {
+                            "useful": "647 ℓ",
+                            "height": "1780 мм"
+                        }
+                    ]
                 },
                 {
                     "id": 4,
                     "name": "RF5500K Холодильник French Door с технологией Triple & Metal Cooling, 486 л",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-multi-door-rf50k5961dpwt-rf50k5961dp-wt-frontbrown-thumb-82871707?$PF_PRD_PNG$",
-                    "useful": "486 л",
-                    "height": "1920 мм"
+                    "params": [
+                        {
+                            "useful": "486 л",
+                            "height": "1920 мм"
+                        }
+                    ]
                 }
             ]
         },
@@ -271,73 +407,121 @@
                     "id": 0,
                     "name": "SC4550 контейнерный пылесос",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-sc4550-vcc4550scw-xev-frontsilver-thumb-297519936?$PF_PRD_PNG$",
-                    "power": "360 W"
+                    "params": [
+                        {
+                            "power": "360 W"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "SC4581 контейнерный пылесос ",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-sc4581-vcc4581vck-xev-front-thumb-297520419?$PF_PRD_PNG$",
-                    "power": "370 Вт"
+                    "params": [
+                        {
+                            "power": "370 Вт"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "VC2100M канистровый пылесос с технологией Cyclone Force и турбиной Anti-Tangle",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-vc2100m-vc18m21c0cn-ev-frontbluelime-thumb-293887145?$PF_PRD_PNG$",
-                    "power": "380 Вт"
+                    "params": [
+                        {
+                            "power": "380 Вт"
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "SC52, пылесос с мешком для сбора пыли, 1800/410 Вт",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-canister-sc5251-vcc5241c33-xev-frontblue-thumb-275101823?$PF_PRD_PNG$",
-                    "power": "410 Вт"
+                    "params": [
+                        {
+                            "power": "410 Вт"
+                        }
+                    ]
                 },
                 {
                     "id": 4,
                     "name": "VC3100M Контейнерный пылесос с технологией Cyclone Force и турбиной Anti-Tangle, 1800/380 Вт",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-vc3100m-vc18m3120vb-ev-frontblue-thumb-63775123?$PF_PRD_PNG$",
-                    "power": "380 Вт."
+                    "params": [
+                        {
+                            "power": "380 Вт."
+                        }
+                    ]
                 },
                 {
                     "id": 5,
                     "name": "VC2500M Пылесос c мешком для сбора пыли, 2000/460 Вт",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-vc2500m-vc20m2520jp-ev-frontvitalityred-thumb-61567202?$PF_PRD_PNG$",
-                    "power": "460 Вт."
+                    "params": [
+                        {
+                            "power": "460 Вт."
+                        }
+                    ]
                 },
                 {
                     "id": 6,
                     "name": "VC2100M Контейнерный пылесос с технологией Cyclone Force и турбиной Anti-Tangle, 1800/380 Вт",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-httpwwwsamsungcomukvacuum-cleanersvc2100m-vc18m21c0vn-ev-frontbluelime-thumb-61424419?$PF_PRD_PNG$",
-                    "power": "380 Вт."
+                    "params": [
+                        {
+                            "power": "380 Вт."
+                        }
+                    ]
                 },
                 {
                     "id": 7,
                     "name": "VC5100 Контейнерный пылесос с технологией Cyclone Force и турбиной Anti-Tangle, 2100 Вт",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-canister-vc5100-vc21k5150hp-ev-frontred-thumb-63775600?$PF_PRD_PNG$",
-                    "power": "440 Вт."
+                    "params": [
+                        {
+                            "power": "440 Вт."
+                        }
+                    ]
                 },
                 {
                     "id": 8,
                     "name": "VC2500M Пылесос c мешком для сбора пыли, 2000/460 Вт",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-vc2500m-vc20m253awr-ev-frontred-thumb-61567228?$PF_PRD_PNG$",
-                    "power": "460 Вт."
+                    "params": [
+                        {
+                            "power": "460 Вт."
+                        }
+                    ]
                 },
                 {
                     "id": 9,
                     "name": "VC3100M Контейнерный пылесос с технологией Cyclone Force и турбиной Anti-Tangle, 1800/380 Вт",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-vc3100m-vc18m31a0hp-ev-frontpink-thumb-61424701?$PF_PRD_PNG$",
-                    "power": "380 Вт."
+                    "params": [
+                        {
+                            "power": "380 Вт."
+                        }
+                    ]
                 },
                 {
                     "id": 10,
                     "name": "VC2100M Контейнерный пылесос с технологией Cyclone Force и турбиной Anti-Tangle, 1800/380 Вт",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-httpwwwsamsungcomukvacuum-cleanersvc2100m-vc18m21a0s1-ev-frontpeachred-thumb-61424357?$PF_PRD_PNG$",
-                    "power": "380 Вт."
+                    "params": [
+                        {
+                            "power": "380 Вт."
+                        }
+                    ]
                 },
                 {
                     "id": 11,
                     "name": "VC4100 Контейнерный пылесос с технологией Cyclone Force и турбиной Anti-Tangle, 1500 Вт",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-canister-vc4100-vc15k4116vr-ev-thumb-Red-Flame-81498495?$PF_PRD_PNG$",
-                    "power": "390 Вт."
+                    "params": [
+                        {
+                            "power": "390 Вт."
+                        }
+                    ]
                 }
             ]
         },
@@ -348,19 +532,31 @@
                     "id": 0,
                     "name": "SC52, пылесос с мешком для сбора пыли, 1800/410 Вт",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-canister-sc5251-vcc5241c33-xev-frontblue-thumb-275101823?$PF_PRD_PNG$",
-                    "power": "410 Вт"
+                    "params": [
+                        {
+                            "power": "410 Вт"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "VC2500M Пылесос c мешком для сбора пыли, 2000/460 Вт",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-vc2500m-vc20m2520jp-ev-frontvitalityred-thumb-61567202?$PF_PRD_PNG$",
-                    "power": "460 Вт."
+                    "params": [
+                        {
+                            "power": "460 Вт."
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "VC2500M Пылесос c мешком для сбора пыли, 2000/460 Вт",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-vc2500m-vc20m253awr-ev-frontred-thumb-61567228?$PF_PRD_PNG$",
-                    "power": "460 Вт."
+                    "params": [
+                        {
+                            "power": "460 Вт."
+                        }
+                    ]
                 }
             ]
         },
@@ -371,8 +567,12 @@
                     "id": 0,
                     "name": "VW9000H Моющий пылесос с системой Trio System™, 1700 Вт",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-vw9000-wet--dry-vacuum-cleaner-vw17h9050hn-ev-frontgreen-thumb-65581186?$PF_PRD_PNG$",
-                    "colors": "green,red",
-                    "power": ""
+                    "params": [
+                        {
+                            "colors": "green,red",
+                            "power": "460 Вт."
+                        }
+                    ]
                 }
             ]
         },
@@ -383,29 +583,45 @@
                     "id": 0,
                     "name": "Jet 75 turbo, Беспроводной пылесос",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-stick-handy-vs20t7538t5-vs20t7536t5-ev-frontsilver-thumb-243015329?$PF_PRD_PNG$",
-                    "colors": "серый",
-                    "power": "200 Вт"
+                    "params": [
+                        {
+                            "colors": "серый",
+                            "power": "200 Вт"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "Jet 75 turbo, Беспроводной пылесос",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-vs20t7538t5-vs20t7532t1-ev-frontmint-thumb-243015472?$PF_PRD_PNG$",
-                    "colors": "мятный",
-                    "power": "200 Вт"
+                    "params": [
+                        {
+                            "colors": "мятный",
+                            "power": "200 Вт"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "Jet 70 turbo, Беспроводной пылесоc",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-stick-handy-vs15t7036r5-vs15t7031r4-ev-frontdynamicviolet-thumb-243382061?$PF_PRD_PNG$",
-                    "colors": "фиолетовый,серый",
-                    "power": "150 Вт"
+                    "params": [
+                        {
+                            "colors": "фиолетовый,серый",
+                            "power": "150 Вт"
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "Беспроводной пылесос Jet 90 complete, до 200 Вт",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-vs9000-vs20r9046s3-ev-dynamicsilver-thumb-160774832?$PF_PRD_PNG$",
-                    "colors": "серебристый",
-                    "power": "6 мин"
+                    "params": [
+                        {
+                            "colors": "серебристый",
+                            "power": "6 мин"
+                        }
+                    ]
                 }
             ]
         },
@@ -428,29 +644,45 @@
                     "id": 0,
                     "name": "Jet 75 turbo, Беспроводной пылесос",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-stick-handy-vs20t7538t5-vs20t7536t5-ev-frontsilver-thumb-243015329?$PF_PRD_PNG$",
-                    "colors": "серый",
-                    "power": "200 Вт"
+                    "params": [
+                        {
+                            "colors": "серый",
+                            "power": "200 Вт"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "Jet 75 turbo, Беспроводной пылесос",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-vs20t7538t5-vs20t7532t1-ev-frontmint-thumb-243015472?$PF_PRD_PNG$",
-                    "colors": "мятный",
-                    "power": "200 Вт"
+                    "params": [
+                        {
+                            "colors": "мятный",
+                            "power": "200 Вт"
+                        }
+                    ]
                 },
                 {
                     "id": 2,
                     "name": "Jet 70 turbo, Беспроводной пылесоc",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-stick-handy-vs15t7036r5-vs15t7031r4-ev-frontdynamicviolet-thumb-243382061?$PF_PRD_PNG$",
-                    "colors": "фиолетовый,серый",
-                    "power": "150 Вт"
+                    "params": [
+                        {
+                            "colors": "фиолетовый,серый",
+                            "power": "150 Вт"
+                        }
+                    ]
                 },
                 {
                     "id": 3,
                     "name": "Беспроводной пылесос Jet 90 complete, до 200 Вт",
                     "image": "https://images.samsung.com/is/image/samsung/kz-ru-vs9000-vs20r9046s3-ev-dynamicsilver-thumb-160774832?$PF_PRD_PNG$",
-                    "colors": "серебристый",
-                    "power": "6 мин"
+                    "params": [
+                        {
+                            "colors": "серебристый",
+                            "power": "6 мин"
+                        }
+                    ]
                 }
             ]
         },
@@ -461,7 +693,11 @@
                     "id": 0,
                     "name": "Паровой шкаф для ухода за одеждой",
                     "image": "https:https://images.samsung.com/is/image/samsung/uz-ru-dryer-df60r8600cg-df60r8600cg-lp-frontaurablue-246913966?$PD_GALLERY_L_JPG$",
-                    "character": "Парогенератор, Дезодорирующий фильтр, Тепловая сушка, Защита от складок на одежде"
+                    "params": [
+                        {
+                            "character": "Парогенератор, Дезодорирующий фильтр, Тепловая сушка, Защита от складок на одежде"
+                        }
+                    ]
                 }
             ]
         },
@@ -472,13 +708,21 @@
                     "id": 0,
                     "name": "AR5000HM Энергосберегающий настенный кондиционер ",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-ar5000hm-wall-mount-ac-with-energy-saving-ar24tqhqaurner-frontsilver-thumb-277004838?$PF_PRD_PNG$",
-                    "energy": "C"
+                    "params": [
+                        {
+                            "energy": "C"
+                        }
+                    ]
                 },
                 {
                     "id": 1,
                     "name": "AR9500T, сплит-система с функцией ускоренного охлаждения",
                     "image": "https://images.samsung.com/is/image/samsung/uz-ru-ar9500t-ar18tsgyawkuev-frontwhite-thumb-237422601?$PF_PRD_PNG$",
-                    "energy": "A"
+                    "params": [
+                        {
+                            "energy": "A"
+                        }
+                    ]
                 }
             ]
         },
@@ -489,7 +733,11 @@
                     "id": "None",
                     "name": "None",
                     "image": "None",
-                    "energy": "None"
+                    "params": [
+                        {
+                            "energy": "None"
+                        }
+                    ]
                 }
             ]
         }

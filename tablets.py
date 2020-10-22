@@ -46,8 +46,10 @@ for detail in cards:
         "id": id,
         "name": name,
         "image":"https:" + image,
-        "colors": str(','.join(color)),
-        "capacity": str(''.join(available_capacity).replace("\\u200e", ""))
+        "params":[{
+            "colors": str(','.join(color)),
+            "capacity": str(''.join(available_capacity).replace("\\u200e", ""))
+        }]
     }
     tablet["categories"][0]["items"].append(galaxy_tab_s)  
 
@@ -76,8 +78,10 @@ for detail in cards:
         "id": id,
         "name": name,
         "image":"https:" + image,
-        "colors": str(','.join(color)),
-        "capacity": str(''.join(available_capacity).replace("\\u200e", ""))
+        "params":[{
+            "colors": str(','.join(color)),
+            "capacity": str(''.join(available_capacity).replace("\\u200e", ""))
+        }]
     }
     tablet["categories"][1]["items"].append(galaxy_tab_a) 
 
@@ -108,8 +112,10 @@ for detail in cards:
         "id": id,
         "name": name,
         "image":"https:" + image,
-        "colors": str(','.join(color)),
-        "capacity": str(''.join(available_capacity).replace("\\u200e", ""))
+        "params":[{
+            "colors": str(','.join(color)),
+            "capacity": str(''.join(available_capacity).replace("\\u200e", ""))
+        }]
     }
     tablet["categories"][2]["items"].append(galaxy_tab_e) 
 

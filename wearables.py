@@ -41,7 +41,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image":"https:" + image,
-        "colors": str(','.join(color))
+        "params": [{"colors": str(','.join(color))}]
     }
     wearable["categories"][0]["items"].append(galaxy_buds)  
 
@@ -66,7 +66,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image":"https:" + image,
-        "colors": str(','.join(color))
+        "params": [{"colors": str(','.join(color))}]
     }
     wearable["categories"][1]["items"].append(galaxy_fit) 
 
@@ -91,7 +91,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image":"https:" + image,
-        "colors": str(','.join(color))
+        "params": [{"colors": str(','.join(color))}]
     }
     wearable["categories"][2]["items"].append(galaxy_watch) 
 

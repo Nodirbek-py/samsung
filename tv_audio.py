@@ -70,7 +70,8 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "size": size.replace("\\u200e", "")
+        "params": [{"size": size.replace("\\u200e", "")}]
+        
     }
     tv["categories"][0]["items"].append(qled_8k) 
 
@@ -95,7 +96,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "size": size.replace("\\u200e", "")
+        "params": [{"size": size.replace("\\u200e", "")}]
     }
     tv["categories"][1]["items"].append(qled_4k)
 
@@ -121,7 +122,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "size": size.replace("\\u200e", "")
+        "params": [{"size": size.replace("\\u200e", "")}]
     }
     tv["categories"][2]["items"].append(crystal)
 
@@ -146,7 +147,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "size": size.replace("\\u200e", "")
+        "params": [{"size": size.replace("\\u200e", "")}]
     }
     tv["categories"][3]["items"].append(premium)
 # UHD
@@ -170,7 +171,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "size": size.replace("\\u200e", "")
+        "params": [{"size": size.replace("\\u200e", "")}]
     }
     tv["categories"][4]["items"].append(uhd)
 # HD/FHD
@@ -194,7 +195,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "size": size.replace("\\u200e", "")
+        "params": [{"size": size.replace("\\u200e", "")}]
     }
     tv["categories"][5]["items"].append(hd)
 
@@ -219,7 +220,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "size": size.replace("\\u200e", "")
+        "params": [{"size": size.replace("\\u200e", "")}]
     }
     tv["categories"][6]["items"].append(serif)
 # The Frame
@@ -243,7 +244,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "size": size.replace("\\u200e", "")
+        "params": [{"size": size.replace("\\u200e", "")}]
     }
     tv["categories"][7]["items"].append(frame)
 # Interior TV
@@ -267,7 +268,7 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "size": size.replace("\\u200e", "")
+        "params": [{"size": size.replace("\\u200e", "")}]
     }
     tv["categories"][8]["items"].append(interior) 
 
@@ -295,7 +296,8 @@ for detail in cards:
         "id": id,
         "name": name,
         "image": "https:" + image,
-        "color": str(','.join(color)),
+        "params": [{"colors": str(','.join(color))}]
+        
     } 
     tv["categories"][9]["items"].append(audio) 
 
